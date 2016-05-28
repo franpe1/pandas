@@ -1,2 +1,1 @@
-# pandas
-README or not
+# Repository for all my Panda related stuff
